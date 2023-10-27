@@ -9,6 +9,8 @@ int main()
     std::cout << "Hello World!\n";
     cout << "1233" << endl;
     cout << "hi i'm jh" << endl;
+
+    cout << "My name is Muakjwa" << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
